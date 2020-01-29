@@ -1,4 +1,4 @@
-class date
+export class date
 {
 	private _year: number;
 	private _month: number;

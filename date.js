@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var date = /** @class */ (function () {
     function date() {
         this._year = 1900;
@@ -177,3 +179,4 @@ var date = /** @class */ (function () {
     };
     return date;
 }());
+exports.date = date;
